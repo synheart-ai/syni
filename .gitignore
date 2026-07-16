@@ -1,0 +1,7 @@
+.DS_Store
+
+# Internal design docs (RFCs, reference PDFs) — not for the public repo
+/docs/
+
+# Paper sources live in Overleaf, not this repo
+/paper/
