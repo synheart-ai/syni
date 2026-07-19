@@ -22,7 +22,7 @@ a typed, versioned human-state contract — and turns it into personalized,
 > 📄 **Accepted at MobileHCI 2026.**
 > *Syni: Acting on Human State Without Sensing It — An On-Device, Privacy-Oriented
 > Agent over a Human State Interface.*
-> Israel Goytom, Henok Biadglign Ademtew, Yisak Tola Debele, Anwar Misbah.
+> Israel Goytom Birhane, Henok Biadglign Ademtew, Yisak Tola Debele, Anwar Misbah.
 >
 > 🔗 **Read the paper:** _coming soon_ <!-- TODO: paste ACM DL / arXiv URL here when available -->
 
@@ -195,11 +195,12 @@ If you reference Syni or the HSI-consumer architecture, please cite it
 @inproceedings{goytom2026syni,
   title     = {Syni: Acting on Human State Without Sensing It --- An On-Device,
                Privacy-Oriented Agent over a Human State Interface},
-  author    = {Goytom, Israel and Ademtew, Henok Biadglign and
+  author    = {Goytom Birhane, Israel and Ademtew, Henok Biadglign and
                Debele, Yisak Tola and Misbah, Anwar},
-  booktitle = {Extended Abstracts of the ACM International Conference on
-               Mobile Human-Computer Interaction (MobileHCI '26)},
+  booktitle = {28th International Conference on Mobile Human-Computer
+               Interaction (MobileHCI '26)},
   year      = {2026},
+  doi       = {10.1145/3821581.3833109},
   note      = {Late-Breaking Work}
 }
 ```
